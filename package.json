@@ -1,8 +1,8 @@
 {
-  "name": "gitbook-summary",
-  "version": "1.2.2",
+  "name": "gitbook-summary-ex",
+  "version": "1.0.0",
   "description": "A CLI to generate  a summary from a given folder.",
-  "homepage": "http://imfly.github.io/gitbook-summary/",
+  "homepage": "https://github.com/CocaCola183/gitbook-summary/",
   "bin": {
     "book": "./bin/summary.js"
   },
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/imfly/gitbook-summary.git"
+    "url": "https://github.com/CocaCola183/gitbook-summary.git"
   },
   "keywords": [
     "gitbook",
@@ -21,11 +21,8 @@
     "cli",
     "nodejs"
   ],
-  "author": "imfly",
+  "author": "CocaCola183",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/imfly/sailsjs-docs-gitbook/issues"
-  },
   "engines": {
     "node": ">=4"
   },
